@@ -28,7 +28,7 @@ global.footer = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ' //ubah jadi nama mu, note tan
 //=================================================//
 // Other
 global . pemilik  = [ '6281998212517' ]
-global . premi  = [ '' 6281998212517]
+global . premi   = [ '6281998212517'   ]
 global.packname = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ'
 global.ownerr = ['ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ']
 global.author = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ'
