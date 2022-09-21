@@ -27,8 +27,8 @@ global.botname = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ' //ubah jadi nama bot mu, not
 global.footer = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285697175057']
-global.premium = ['6285697175057']
+global . pemilik  = [ '6281998212517' ]
+global . premi  = [ '' 6281998212517]
 global.packname = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ'
 global.ownerr = ['ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ']
 global.author = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ'
